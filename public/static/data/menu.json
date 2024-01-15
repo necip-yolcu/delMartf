@@ -1,0 +1,1404 @@
+{
+    "menuPrimary": {
+        "menu_1": [
+            {
+                "text": "Home",
+                "url": "/",
+                "extraClass": "menu-item-has-children",
+                "subClass": "sub-menu",
+                "subMenu": [
+                    {
+                        "text": "Marketplace Full Width",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Home Auto Parts",
+                        "url": "/home/auto-part"
+                    },
+                    {
+                        "text": "Home Technology",
+                        "url": "/home/technology"
+                    },
+                    {
+                        "text": "Home Organic",
+                        "url": "/home/organic"
+                    },
+                    {
+                        "text": "Home Marketplace V1",
+                        "url": "/home/market-place"
+                    },
+                    {
+                        "text": "Home Marketplace V2",
+                        "url": "/home/market-place-2"
+                    },
+                    {
+                        "text": "Home Marketplace V3",
+                        "url": "/home/market-place-3"
+                    },
+                    {
+                        "text": "Home Marketplace V4",
+                        "url": "/home/market-place-4"
+                    },
+                    {
+                        "text": "Home Electronic",
+                        "url": "/home/electronic"
+                    },
+                    {
+                        "text": "Home Furniture",
+                        "url": "/home/furniture"
+                    }
+                ]
+            },
+            {
+                "text": "Shop",
+                "url": "/shop",
+                "extraClass": "menu-item-has-children has-mega-menu",
+                "subClass": "sub-menu",
+                "mega": "true",
+                "megaContent": [
+                    {
+                        "heading": "Catalog Pages",
+                        "megaItems": [
+                            {
+                                "text": "Shop Default",
+                                "url": "/shop"
+                            },
+                            {
+                                "text": "Shop Fullwidth",
+                                "url": "/shop/shop-fullwidth"
+                            },
+                            {
+                                "text": "Shop Categories",
+                                "url": "/shop/shop-categories"
+                            },
+                            {
+                                "text": "Shop Sidebar",
+                                "url": "/shop/shop-sidebar"
+                            },
+                            {
+                                "text": "Shop Without Banner",
+                                "url": "/shop/shop-sidebar-without-banner"
+                            },
+                            {
+                                "text": "Shop Carousel",
+                                "url": "/shop/shop-carousel"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Product Layout",
+                        "megaItems": [
+                            {
+                                "text": "Default",
+                                "url": "/product/default"
+                            },
+                            {
+                                "text": "Extended",
+                                "url": "/product/extended"
+                            },
+                            {
+                                "text": "Full Content",
+                                "url": "/product/full-content"
+                            },
+                            {
+                                "text": "Boxed",
+                                "url": "/product/boxed"
+                            },
+                            {
+                                "text": "Sidebar",
+                                "url": "/product/sidebar"
+                            },
+                            {
+                                "text": "Fullwidth",
+                                "url": "/product/default"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Product Types",
+                        "megaItems": [
+                            {
+                                "text": "Simple",
+                                "url": "/product/default"
+                            },
+                            {
+                                "text": "Images Swatches",
+                                "url": "/product/11"
+                            },
+                            {
+                                "text": "Countdown",
+                                "url": "/product/countdown"
+                            },
+                            {
+                                "text": "Affiliate",
+                                "url": "/product/affiliate"
+                            },
+                            {
+                                "text": "On sale",
+                                "url": "/product/on-sale"
+                            },
+                            {
+                                "text": "Video Featured",
+                                "url": "/product/video-featured"
+                            },
+                            {
+                                "text": "Grouped",
+                                "url": "/product/groupped"
+                            },
+                            {
+                                "text": "Out Of Stock",
+                                "url": "/product/out-of-stock"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Ecomerce Pages",
+                        "megaItems": [
+                            {
+                                "text": "Shopping Cart",
+                                "url": "/account/shopping-cart"
+                            },
+                            {
+                                "text": "Checkout",
+                                "url": "/account/checkout"
+                            },
+                            {
+                                "text": "Whishlist",
+                                "url": "/account/wishlist"
+                            },
+                            {
+                                "text": "Compare",
+                                "url": "/account/compare"
+                            },
+                            {
+                                "text": "Order Tracking",
+                                "url": "/account/order-tracking"
+                            },
+                            {
+                                "text": "My Account",
+                                "url": "/account/login"
+                            },
+                            {
+                                "text": "Login / Register",
+                                "url": "/account/login"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Pages",
+                "url": "",
+                "extraClass": "menu-item-has-children has-mega-menu",
+                "subClass": "sub-menu",
+                "mega": "true",
+                "megaContent": [
+                    {
+                        "heading": "Basic Page",
+                        "megaItems": [
+                            {
+                                "text": "About Us",
+                                "url": "/page/about-us"
+                            },
+                            {
+                                "text": "Contact",
+                                "url": "/page/contact-us"
+                            },
+                            {
+                                "text": "Faqs",
+                                "url": "/page/faqs"
+                            },
+                            {
+                                "text": "404 Page",
+                                "url": "/page/page-404"
+                            },
+                            {
+                                "text": "Blog",
+                                "url": "/blog"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Vendor Pages",
+                        "megaItems": [
+                            {
+                                "text": "Become a Vendor",
+                                "url": "/vendor/become-a-vendor"
+                            },
+                            {
+                                "text": "Vendor Store",
+                                "url": "/vendor/vendor-store"
+                            },
+                            {
+                                "text": "Store List",
+                                "url": "/vendor/store-list"
+                            },
+                            {
+                                "text": "Store List 2",
+                                "url": "/vendor/store-list-2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Blogs",
+                "url": "/blog",
+                "current": "shop",
+                "extraClass": "menu-item-has-children has-mega-menu",
+                "subClass": "sub-menu",
+                "mega": "true",
+                "megaContent": [
+                    {
+                        "heading": "Blog Layout",
+                        "megaItems": [
+                            {
+                                "text": "Grid",
+                                "url": "/blog"
+                            },
+                            {
+                                "text": "Listing",
+                                "url": "/blog/blog-list"
+                            },
+                            {
+                                "text": "Small Thumb",
+                                "url": "/blog/blog-small-thumbnail"
+                            },
+                            {
+                                "text": "Left Sidebar",
+                                "url": "/blog/blog-left-sidebar"
+                            },
+                            {
+                                "text": "Right Sidebar",
+                                "url": "/blog/blog-right-sidebar"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Single Blog",
+                        "megaItems": [
+                            {
+                                "text": "Single 1",
+                                "url": "/post/default"
+                            },
+                            {
+                                "text": "Single 2",
+                                "url": "/post/detail-2"
+                            },
+                            {
+                                "text": "Single 3",
+                                "url": "/post/detail-3"
+                            },
+                            {
+                                "text": "Single 4",
+                                "url": "/post/default"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "WPMenu": [
+        {
+            "text": "Persoonlijke verzorging",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Persoonlijke verzorging",
+                    "megaItems": [
+                        {
+                            "text": "Lichaamsverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Huidverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Hand- & Voetverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tand- & Mondverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Haarverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Scheren, Trimmen & Ontharen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Babyverzorging",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Make-up",
+                    "megaItems": [
+                        {
+                            "text": "Make-up",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Ogen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gezichts Make-up",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Lippen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Nagels",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Lichaams Make-up",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Cosmetische hulpmiddelen",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Parfum",
+                    "megaItems": [
+                        {
+                            "text": "Herenparfum",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Damesparfum",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kinderparfum",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Huisparfums",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Vendor Pages",
+                    "megaItems": [
+                        {
+                            "text": "Become a Vendor",
+                            "url": "/vendors/become-a-vendor"
+                        },
+                        {
+                            "text": "Vendor Stores",
+                            "url": "/vendors"
+                        },
+                        {
+                            "text": "About Us",
+                            "url": "/page/about-us"
+                        },
+                        {
+                            "text": "Contact",
+                            "url": "/page/contact-us"
+                        },
+                        {
+                            "text": "Faqs",
+                            "url": "/page/faqs"
+                        },
+                        {
+                            "text": "404 Page",
+                            "url": "/page/page-404"
+                        },
+                        {
+                            "text": "Blog",
+                            "url": "/blog"
+                        },
+                        {
+                            "text": "Shop Default",
+                            "url": "/shop/shop-default"
+                        },
+                        {
+                            "text": "Shop Fullwidth",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Shop Sidebar",
+                            "url": "/shop/shop-sidebar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Gezondheid",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Gezondheid",
+                    "megaItems": [
+                        {
+                            "text": "Gezichtsverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Zonnebrand",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Ogen zorg",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Haarverzorging",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tandheelkunde",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Lichaamshygiëne",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Parapharmacy",
+                    "megaItems": [
+                        {
+                            "text": "Gezondheidssupplement",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Supplementen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Voeding",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Fitness & Voeding",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Hobby's",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Boeken",
+                    "megaItems": [
+                        {
+                            "text": "Biografieën & Waargebeurd",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kinderboeken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Prentenboeken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kleurboeken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Stripboeken, Manga & Graphic Novels",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kookboeken",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Dieren",
+                    "megaItems": [
+                        {
+                            "text": "Honden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Katten",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Fietsen & Accessoires",
+                    "megaItems": [
+                        {
+                            "text": "Fietsregenkleding",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Fietsaccessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Fietselektronica",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Films & Series",
+                    "megaItems": [
+                        {
+                            "text": "Blu-ray",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Dvd",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Film & Serie merchandise",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Actie",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Animatie",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Documentaire",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Drama",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Games",
+                    "megaItems": [
+                        {
+                            "text": "Videogames",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "PC-games",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Games merchandise",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gamesaccessoires",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Kamperen & Outdoor",
+                    "megaItems": [
+                        {
+                            "text": "Kamperen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Outdoor",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kampeermeubelen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Waterflessen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Zaklampen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Koelboxen & -elementen",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Kantoor & School",
+                    "megaItems": [
+                        {
+                            "text": "Bureauaccessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kantoorartikelen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schooltassen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schrijfwaren",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Pennenbakjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tijdschriften",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Speelgoed",
+                    "megaItems": [
+                        {
+                            "text": "Badspeelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Buitenspeelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Educatief speelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Interactief speelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Grijp- & Bijtspeelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schietspeelgoed",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schietspeelgoedaccessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Speelgoedpistool",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Waterspeelgoed",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Elektronica",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Elektronica",
+                    "megaItems": [
+                        {
+                            "text": "Keukengerei",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Koffiemachines",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gourmet-funcooking",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Audio & Hifi",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Audio & Visueel",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tablets & Accessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Telefonie & Accessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Camera's & Accessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Batterijen & Opladers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Persoonlijke verzorgings - apparaten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Fietselektronica",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "",
+                    "megaItems": [
+                        {
+                            "text": "",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Kleding",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Damesmode",
+                    "megaItems": [
+                        {
+                            "text": "Accessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schoenen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Sokken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tassen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Haaraccessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Hoofddeksels",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Sjaals",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Slippers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schoudertassen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Zonnebrillen",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Herenmode",
+                    "megaItems": [
+                        {
+                            "text": "Accessoires",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Schoenen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Sokken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Boxershorts",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Tassen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Ondergoed & Zwembroeken",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Eten & Drinken",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Eten",
+                    "megaItems": [
+                        {
+                            "text": "Ontbijtgranen, broodbeleg, tussendoor",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Broodbeleg",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gedroogde vruchten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Pasta, rijst en wereldkeuken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Soepen, conserven, sauzen, smaakmakers",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Drinken",
+                    "megaItems": [
+                        {
+                            "text": "Frisdranken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Theeën",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Huis & Tuin",
+            "url": "",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": "true",
+            "megaContent": [
+                {
+                    "heading": "Huis",
+                    "megaItems": [
+                        {
+                            "text": "Accessoires voor radiators",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor wasmachines & drogers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Afzuigkappen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Archiefkasten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Banken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bankjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Barkrukken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bad- & douchejets",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Badkamermeubelsets",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bijzettafels",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Boekenkasten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Buitenkleden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bureaus",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Chaises longues",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Commodes & ladekasten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Dekens",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Deurkozijnen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Douchewanden & -muren",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Huis",
+                    "megaItems": [
+                        {
+                            "text": "Dressoirs & buffetkasten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Eetkamersets",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Eetkamerstoelen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Elektrische massagestoelen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gootstenen voor badkamers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gootstenen voor keukens",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gordijnen & vitrages",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Haarden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Hoofdborden en voetborden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kerstbomen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Klapstoelen & krukken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kledingkasten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Lambrisering",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Nachtkastjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Opberg- & halbankjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Opbergkasten & lockerkasten",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Tuin",
+                    "megaItems": [
+                        {
+                            "text": "Aanhangwagens",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Aankleedkussens",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor beregeningssystemen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor fonteinen & vijvers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor hekken & afscheidingen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor partytenten & prieeltjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor schommel- & speelsets",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Beregening & irrigatie",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessoires voor zwembaden & spa's",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Afdekdoeken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bagagenetten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Beschermende uitrusting voor jagen & schieten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Beregeningsregeling",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Fonteinen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Barbecues",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Frames voor partytenten & prieeltjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Hangmatten",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Tuin",
+                    "megaItems": [
+                        {
+                            "text": "Haarden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kooien & hokken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Kunstplanten",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Modulaire tuinbanken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Parasols en zonneschermen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Ligstoelen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Loungebanken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Doeken voor partytenten & prieeltjes",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Bloempotten & plantenbakken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Borderranden",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Brandhoutrekken & -dragers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Compostbakken",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Dakbedding",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Dakshingles en -pannen",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Benodigdheden voor golftraining",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+                
+            ]
+        }
+    ],
+    "product_categories": [
+        {
+            "icon": "icon-star",
+            "text": "Hot Promotions",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-laundry",
+            "text": "Consumer Electronic",
+            "url": "/shop",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "mega": true,
+            "megaContent": [
+                {
+                    "heading": "Electronic",
+                    "megaItems": [
+                        {
+                            "text": "Home Audio & Theathers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "TV & Videos",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Camera, Photos & Videos",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Cellphones & Accessories",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Headphones",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Videosgames",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Wireless Speakers",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Office Electronic",
+                            "url": "/shop"
+                        }
+                    ]
+                },
+                {
+                    "heading": "Accessories & Parts",
+                    "megaItems": [
+                        {
+                            "text": "Digital Cables",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Audio & Video Cables",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Batteries",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "icon-shirt",
+            "text": "Clothing & Apparel",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-lampshade",
+            "text": "Home, Garden & Kitchen",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-heart-pulse",
+            "text": "Health & Beauty",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-diamond2",
+            "text": "Yewelry & Watches",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-desktop",
+            "text": "Computer & Technology",
+            "url": "/shop",
+            "extraClass": "menu-item-has-children has-mega-menu",
+            "subClass": "sub-menu",
+            "megaContent": [
+                {
+                    "heading": "Computer & Technologies",
+                    "megaItems": [
+                        {
+                            "text": "Computer & Tablets",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Laptop",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Monitors",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Networking",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Drive & Storages",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Computer Components",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Security & Protection",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Gaming Laptop",
+                            "url": "/shop"
+                        },
+                        {
+                            "text": "Accessories",
+                            "url": "/shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "icon-baby-bottle",
+            "text": "Babies & Moms",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-baseball",
+            "text": "Sport & Outdoor",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-smartphone",
+            "text": "Phones & Accessories",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-book2",
+            "text": "Books & Office",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-car-siren",
+            "text": "Cars & Motocycles",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-wrench",
+            "text": "Home Improments",
+            "url": "/shop"
+        },
+        {
+            "icon": "icon-tag",
+            "text": "Vouchers & Services",
+            "url": "/shop"
+        }
+    ]
+}
