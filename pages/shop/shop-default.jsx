@@ -7,7 +7,7 @@ import { WPGetProducts } from '~/store/wp/action';
 import ShopBanner from '~/components/partials/shop/ShopBanner';
 import ShopBrands from '~/components/partials/shop/ShopBrands';
 import WPWidgetCategories from '~/wp-components/shop/WPWidgetCategories';
-import WPWidgetAttr  from '~/wp-components/shop/WPWidgetAttr ';
+import WPWidgetAttr  from '~/wp-components/shop/WPWidgetAttr';
 import WPWidgetFilterByPrices from '~/wp-components/shop/WPWidgetFilterByPrices';
 import WPShopProducts from '~/wp-components/shop/WPShopProducts';
 import WPProductRepository from '~/repositories/WP/WPProductRepository';
