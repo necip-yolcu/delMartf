@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseDomain = 'http://45.76.97.89:3000';
+const baseDomain = 'https://45.76.97.89:3000';
 export const wp = 'https://clone.trendmall.nl';
 /* const baseDomain = 'http://45.76.97.89:3000';
 export const wp = 'https://wp.nouhtml5.com';
