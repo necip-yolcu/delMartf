@@ -1,11 +1,11 @@
 {
     "name": "martfury_react",
     "version": "1.4.0",
-    "homepage": "https://front.trendmall.nl/",
+    "homepage": "https://del-martf.vercel.app/",
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "stripe": "stripe listen --forward-to localhost:3000/api/webhooks",
+        "stripe": "stripe listen --forward-to https://del-martf.vercel.app/api/webhooks",
         "build": "next build",
         "start": "next start"
     },
