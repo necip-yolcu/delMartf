@@ -1,7 +1,7 @@
 import React from 'react';
-import BreadCrumb from '../../components/elements/BreadCrumb';
-import FaqsContent from '../../components/partials/page/FaqsContent';
-import Newletters from '../../components/partials/commons/Newletters';
+import BreadCrumb from '../../../components/elements/BreadCrumb';
+import FaqsContent from '../../../components/partials/page/FaqsContent';
+import Newletters from '../../../components/partials/commons/Newletters';
 import WPLayout from '~/wp-components/layouts/WPLayout';
 
 const FaqsPage = () => {
