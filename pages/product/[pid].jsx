@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { connect, useDispatch } from 'react-redux';
 import Router, { useRouter } from 'next/router';
-import BreadCrumb from '../../../components/elements/BreadCrumb';
+import BreadCrumb from '../../components/elements/BreadCrumb';
 import WPProductDetail from '~/wp-components/elements/products/WPProductDetail';
 import WPProductRepository from '~/repositories/WP/WPProductRepository';
 import WPHeaderProduct from '~/wp-components/shared/headers/WPHeaderProduct';

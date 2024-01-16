@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import RelatedPosts from '../../../components/partials/post/RelatedPosts';
-import PostComments from '../../../components/partials/post/PostComments';
+import RelatedPosts from '../../components/partials/post/RelatedPosts';
+import PostComments from '../../components/partials/post/PostComments';
 import { connect } from 'react-redux';
 import WPPostRepository from '~/repositories/WP/WPPostRepository';
 import WPPostDetail from '~/wp-components/elements/posts/WPPostDetail';

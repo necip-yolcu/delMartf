@@ -5,13 +5,13 @@ import withRedux from 'next-redux-wrapper';
 import withReduxSaga from 'next-redux-saga';
 import { persistStore } from 'redux-persist';
 import { PersistGate } from 'redux-persist/integration/react';
-import createStore from '../../store/store';
-import DefaultLayout from '../../components/layouts/DefaultLayout';
-import '../../scss/style.scss';
-import '../../scss/home-default.scss';
-import '../../scss/market-place-1.scss';
+import createStore from '../store/store';
+import DefaultLayout from '../components/layouts/DefaultLayout';
+import '../scss/style.scss';
+import '../scss/home-default.scss';
+import '../scss/market-place-1.scss';
 import 'slick-carousel/slick/slick.css';
-import '../../scss/payment.scss'
+import '../scss/payment.scss'
 
 
 /*import '../scss/electronic.scss';
