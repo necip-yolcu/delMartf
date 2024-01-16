@@ -34,9 +34,9 @@ module.exports = withPlugins(
                         }
                     ];
             },
-            serverMiddleware: [
+            /* serverMiddleware: [
                 // Enable CORS for all routes locally
                 cors(),
-            ],
+            ], */
         }
     );
