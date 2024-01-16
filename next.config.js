@@ -20,11 +20,11 @@ const nextSettings = {
 module.exports = withPlugins(
         [withImages(), nextSettings],
         {
-            /* async headers() {
+            async headers() {
                 return [
                         {
                         // matching all API routes
-                        source: "/api/:path*",
+                        source: "/*",
                         headers: [
                             { key: "Access-Control-Allow-Credentials", value: "true" },
                             { key: "Access-Control-Allow-Origin", value: "*" },
@@ -33,7 +33,7 @@ module.exports = withPlugins(
                         ]
                         }
                     ];
-            }, */
+            },
             serverMiddleware: [
                 // Enable CORS for all routes locally
                 cors(),
